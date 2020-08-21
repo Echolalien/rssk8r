@@ -1,6 +1,6 @@
 # RSSk8r
 REALLY SICK SYNDIK8R
-RSSk8r is a command line (for now?) tool that facilitates quick and easy publishing to an rss feed on your local computer. I made this because I couldn't find an rss feed builder that was open source and worked on GNU/Linux. RSSk8r is released under GPLv3 so you're free to copy, distribute or modify it as you see fit.
+RSSk8r is a command line (for now?) tool written in C that facilitates quick and easy publishing to an rss feed on your local computer. I made this because I couldn't find an rss feed builder that was open source and worked on GNU/Linux. RSSk8r is released under GPLv3 so you're free to copy, distribute or modify it as you see fit.
 
 # Usage
 When run from the command line, it's possible to pass the location of your rss file as an argument. If you don't, or if you run it by double-clicking, you'll be prompted to supply the rss file's location once the program is loaded. The file must be a .xml file which contains at least one rss post (indicated by the \<item\> tag). Documentation for the RSS format can be found at http://blogs.law.harvard.edu/tech/rss. There is a sample.xml file available in this repository if you need it.
