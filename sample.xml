@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Sample rss feed</title>
+<link>www.duckduckgo.com</link>
+<description>Feed description goes here</description>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<language>en</language>
+<generator>RSSK8R v1.0 https://github.com/echolalien/rssk8r</generator>
+
+<item>
+  <title>This is a sample post's title
+  </title>
+  <link>This is the link attached to the sample post
+  </link>
+  <guid>This just needs to be unique, typically it uses the link above as this is typically unique
+  </guid>
+  <pubDate>Wed, 19 Aug 2020 00:00:00 GMT
+  </pubDate>
+  <description>Above is the publication date of this sample post. This is the description of the sample post.
+  </description>
+</item>
+  
+<!--
+
+<item>
+<title>
+</title>
+<link>
+</link>
+<guid>
+</guid>
+<pubDate>Wed, 19 Aug 2020 00:00:00 GMT
+</pubDate>
+<description>
+</description>
+</item>
+
+-->
+
+</channel>
+</rss>
