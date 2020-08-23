@@ -11,3 +11,4 @@ Using with gnome and feedreader
 <img src="https://github.com/Echolalien/rssk8r/blob/master/Screenshot%20from%202020-08-23%2018-53-24.png">
 Using with herbstluftwm and newsboat
 <img src="https://github.com/Echolalien/rssk8r/blob/master/screenshot.png">
+Thanks to stormy for screenshots
