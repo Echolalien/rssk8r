@@ -1,5 +1,5 @@
 # RSSk8r
-REALLY SICK SYNDIK8R
+REALLY SICK SYNDIK8R<br>
 RSSk8r is a command line (for now?) tool written in C that facilitates quick and easy publishing to an rss feed on your local computer. I made this because I couldn't find an rss feed builder that was open source and worked on GNU/Linux. RSSk8r is released under GPLv3 so you're free to copy, distribute or modify it as you see fit.
 
 # Usage
